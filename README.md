@@ -1,2 +1,2 @@
-# TF2ObjectDetection-TEST
-Test script for tensorflow objectDetection.
+## Pre-processing for Object Detection.
+Test script for tensorflow object Detection.

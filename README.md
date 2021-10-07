@@ -1,2 +1,2 @@
 ## Pre-processing for Object Detection.
-Test script for tensorflow object Detection.
+Scripts for tensorflow multiple object detection classification API.
